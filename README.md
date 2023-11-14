@@ -1,7 +1,8 @@
 # cub3d-42
 
 ## cub3d is a simple 3D game made using raycasting
-https://github.com/goyorr/cub3d-42/assets/116950945/d9117581-5ee2-4613-aaf8-99ac245119fe
+https://github.com/goyorr/cub3d-42/assets/116950945/b24b3a64-5c08-49f9-afd3-535a16daa649
+
 
 # Controls:
   * W, S, A, D to move the player (front, back and the sides)
