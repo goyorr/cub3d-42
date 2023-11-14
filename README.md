@@ -4,7 +4,7 @@
 https://github.com/goyorr/cub3d-42/assets/116950945/b24b3a64-5c08-49f9-afd3-535a16daa649
 
 
-# Controls:
+# Controls
   * W, S, A, D to move the player (front, back and the sides)
   * Use left and right arrows or the mouse to rotate the POV
   * ESC to exit
